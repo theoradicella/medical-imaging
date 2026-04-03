@@ -2,3 +2,5 @@ numpy
 matplotlib
 pydicom
 ipywidgets
+scipy
+scikit-image
